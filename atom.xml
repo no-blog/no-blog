@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://c3b2ablog.github.io</id>
+    <id>https://nothingblog.top</id>
     <title>Nothing Blog</title>
-    <updated>2020-03-13T04:06:03.473Z</updated>
+    <updated>2020-03-18T14:32:03.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://c3b2ablog.github.io"/>
-    <link rel="self" href="https://c3b2ablog.github.io/atom.xml"/>
-    <logo>https://c3b2ablog.github.io/images/avatar.png</logo>
-    <icon>https://c3b2ablog.github.io/favicon.ico</icon>
+    <link rel="alternate" href="https://nothingblog.top"/>
+    <link rel="self" href="https://nothingblog.top/atom.xml"/>
+    <logo>https://nothingblog.top/images/avatar.png</logo>
+    <icon>https://nothingblog.top/favicon.ico</icon>
     <rights>All rights reserved 2020, Nothing Blog</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://c3b2ablog.github.io/post/hello-gridea/</id>
-        <link href="https://c3b2ablog.github.io/post/hello-gridea/">
+        <id>https://nothingblog.top/post/hello-gridea/</id>
+        <link href="https://nothingblog.top/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
