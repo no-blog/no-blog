@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://nothingblog.top</id>
     <title>Nothing Blog</title>
-    <updated>2020-03-19T11:08:01.173Z</updated>
+    <updated>2020-03-19T11:09:01.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://nothingblog.top"/>
     <link rel="self" href="https://nothingblog.top/atom.xml"/>
@@ -15,17 +15,5 @@
         <link href="https://nothingblog.top/about/">
         </link>
         <updated>2020-03-18T23:37:02.000Z</updated>
-        <content type="html"><![CDATA[<p>邮箱：<br>
-c3b2atest01@outlook.com<br>
-c3b2atest02@outlook.com<br>
-c3b2atest03@outlook.com<br>
-c3b2atest04@outlook.com<br>
-c3b2atest05@outlook.com<br>
-c3b2atest06@outlook.com<br>
-c3b2atest07@outlook.com<br>
-c3b2atest08@outlook.com<br>
-c3b2atest09@outlook.com<br>
-c3b2atest10@outlook.com</p>
-]]></content>
     </entry>
 </feed>
