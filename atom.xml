@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://nothingblog.top</id>
+    <id>https://nothingblog.github.io</id>
     <title>Nothing Blog</title>
-    <updated>2020-04-05T01:05:14.352Z</updated>
+    <updated>2020-04-10T03:36:56.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://nothingblog.top"/>
-    <link rel="self" href="https://nothingblog.top/atom.xml"/>
-    <logo>https://nothingblog.top/images/avatar.png</logo>
-    <icon>https://nothingblog.top/favicon.ico</icon>
+    <link rel="alternate" href="https://nothingblog.github.io"/>
+    <link rel="self" href="https://nothingblog.github.io/atom.xml"/>
+    <logo>https://nothingblog.github.io/images/avatar.png</logo>
+    <icon>https://nothingblog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Nothing Blog</rights>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
-        <id>https://nothingblog.top/about/</id>
-        <link href="https://nothingblog.top/about/">
+        <id>https://nothingblog.github.io/about/</id>
+        <link href="https://nothingblog.github.io/about/">
         </link>
         <updated>2020-03-18T23:37:02.000Z</updated>
     </entry>
