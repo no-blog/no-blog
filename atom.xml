@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://blog.nothingblog.top</id>
+    <id>https://noblog.cc</id>
     <title>Nothing Blog</title>
-    <updated>2020-04-17T08:24:43.590Z</updated>
+    <updated>2020-04-22T10:15:31.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://blog.nothingblog.top"/>
-    <link rel="self" href="https://blog.nothingblog.top/atom.xml"/>
-    <logo>https://blog.nothingblog.top/images/avatar.png</logo>
-    <icon>https://blog.nothingblog.top/favicon.ico</icon>
+    <link rel="alternate" href="https://noblog.cc"/>
+    <link rel="self" href="https://noblog.cc/atom.xml"/>
+    <logo>https://noblog.cc/images/avatar.png</logo>
+    <icon>https://noblog.cc/favicon.ico</icon>
     <rights>All rights reserved 2020, Nothing Blog</rights>
     <entry>
         <title type="html"><![CDATA[使用Github Pages和Gridea搭建博客]]></title>
-        <id>https://blog.nothingblog.top/shi-yong-github-pages-he-gridea-da-jian-bo-ke/</id>
-        <link href="https://blog.nothingblog.top/shi-yong-github-pages-he-gridea-da-jian-bo-ke/">
+        <id>https://noblog.cc/shi-yong-github-pages-he-gridea-da-jian-bo-ke/</id>
+        <link href="https://noblog.cc/shi-yong-github-pages-he-gridea-da-jian-bo-ke/">
         </link>
         <updated>2020-04-12T03:18:05.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
-        <id>https://blog.nothingblog.top/about/</id>
-        <link href="https://blog.nothingblog.top/about/">
+        <id>https://noblog.cc/about/</id>
+        <link href="https://noblog.cc/about/">
         </link>
         <updated>2020-03-18T23:37:02.000Z</updated>
     </entry>
